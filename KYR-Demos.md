@@ -9,9 +9,9 @@ revealjs-url: '.'
 
 output: 
   custom_document:
-    path: 'MRPC.html'
+    path: 'KYR-Demos.html'
     pandoc_args: ["-t", "revealjs", "-s"]
-    theme: white 
+    theme: moon 
     slide_level: 3
 ---
 
