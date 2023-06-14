@@ -3,7 +3,7 @@
 title: Title
 author: Eric M. Fink
 institution: Elon Law School 
-date: Date
+date: 14 June 2023
 
 revealjs-url: '../reveal.js'
 
