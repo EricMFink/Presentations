@@ -28,7 +28,7 @@
 
   </head>
 
-  <body class="layout--single">
+  <body>
 
 	<header class="site-header">
 
@@ -45,9 +45,11 @@
 		<article>  
 
 			<ul>
-			<li><a href="MRPC.html">Model Rules of Professional Conduct</a></li> 
-			<li><a href="KYR-Demos.html">Know Your Rights: Demonstrations & Police Encounters</a></li> 
-
+				{% for presentation in site.data.presentations %}
+					<a href="{{ presentation.revealjs }}.html">
+						<li>{{ presentation.title }}</li>
+					</a>
+				{% endfor %}
 			</ul>
 		  	
 		</article>

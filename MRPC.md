@@ -1,6 +1,7 @@
 ---
 title: Legal Ethics
 subtitle: Fourth Circuit Judicial Conference
+description: Legal ethics presentation for the 2023 Fourth Circuit Judicial Conference in Greensboro, North Carolina. 
 date: 29 June 2023
 
 revealjs-url: '.'
@@ -9,7 +10,7 @@ output:
   custom_document:
     path: 'MRPC.html'
     pandoc_args: ["-t", "revealjs", "-s"]
-    theme: white 
+    theme: emf-legal 
     slide_level: 3
 
 ---

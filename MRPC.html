@@ -6,12 +6,29 @@
 
 		<title>Legal Ethics</title>
 
+		<meta name="author" content="Eric M. Fink">
+
+				<meta name="description" content="Legal ethics presentation for the 2023
+Fourth Circuit Judicial Conference in Greensboro, North Carolina." />
+		
 		<link rel="stylesheet" href="dist/reset.css">
 		<link rel="stylesheet" href="dist/reveal.css">
 		
-				<link rel="stylesheet" href="dist/theme/white.css" id="theme">
+				<link rel="stylesheet" href="dist/theme/emf-legal.css" id="theme">
 				<!-- Theme for syntax highlighting -->
 		<link rel="stylesheet" href="plugin/highlight/monokai.css" id="highlight-theme">
+		
+		
+	<!-- Adobe Fonts -->
+	<link rel="stylesheet" href="https://use.typekit.net/viv2jun.css">
+
+	<!-- Google Fonts -->
+	<link href="https://fonts.googleapis.com/css2?family=Proza+Libre:ital,wght@0,400;0,600;0,700;0,800;1,400;1,600&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600;1,700&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Cousine:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@300;400;700&display=swap" rel="stylesheet">
+
 		
 
 		<!-- If the query includes 'print-pdf', include the PDF print sheet -->
@@ -29,11 +46,13 @@
 	<body>
 		<div class="reveal">
 			<div class="slides">
-									<section id="title-slide">
+									<section id="title-slide">					
+						<div class="title">
 						<h1 class="title">Legal Ethics</h1>
-												<p class="subtitle">Fourth Circuit Judicial Conference</p>
-																								<p class="date">29 June 2023</p>
-											</section>
+												<h2 class="title">Fourth Circuit Judicial Conference</h2>
+																								<h4 class="date">29 June 2023</h4>
+												</div>
+					</section>
 								
 				<section id="aba-model-rules-of-professional-conduct"
 class="title-slide slide level1">
@@ -1839,9 +1858,13 @@ conduct will occur.</p>
 		</div>
 
 		<script src="dist/reveal.js"></script>
+		<script src="dist/reveal-scroll.js"></script>
 		<script src="plugin/notes/notes.js"></script>
 		<script src="plugin/markdown/markdown.js"></script>
 		<script src="plugin/highlight/highlight.js"></script>
+		<script src="plugin/menu/menu.js"></script>
+		
+		
 		<script>
 		// More info about initialization & config:
 		// - https://revealjs.com/initialization/
@@ -1850,7 +1873,7 @@ conduct will occur.</p>
 		hash: true,
 
 		// Learn about plugins: https://revealjs.com/plugins/
-		plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
+		plugins: [ RevealMarkdown, RevealHighlight, RevealNotes, RevealMenu ]
 		});
 		</script>
 
