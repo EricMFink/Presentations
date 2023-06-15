@@ -59,10 +59,13 @@
 						<h2 class="title">$subtitle$</h2>
 						$endif$
 						$for(author)$
-						<h3 class="author">$author$</h3>
+						<h3 class="title">$author$</h3>
 						$endfor$
+						$if(affiliation)$
+						<h3 class="title">$affiliation$</h2>
+						$endif$
 						$if(date)$
-						<h4 class="date">$date$</h4>
+						<h4 class="title">$date$</h4>
 						$endif$
 						</div>
 					</section>

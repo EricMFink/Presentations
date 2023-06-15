@@ -6,12 +6,27 @@
 
 		<title>Know Your Rights:</title>
 
+		<meta name="author" content="Eric M. Fink">
+
+		
 		<link rel="stylesheet" href="dist/reset.css">
 		<link rel="stylesheet" href="dist/reveal.css">
 		
-				<link rel="stylesheet" href="dist/theme/moon.css" id="theme">
+				<link rel="stylesheet" href="dist/theme/emf-moon.css" id="theme">
 				<!-- Theme for syntax highlighting -->
 		<link rel="stylesheet" href="plugin/highlight/monokai.css" id="highlight-theme">
+		
+		
+	<!-- Adobe Fonts -->
+	<link rel="stylesheet" href="https://use.typekit.net/viv2jun.css">
+
+	<!-- Google Fonts -->
+	<link href="https://fonts.googleapis.com/css2?family=Proza+Libre:ital,wght@0,400;0,600;0,700;0,800;1,400;1,600&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600;1,700&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Cousine:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@300;400;700&display=swap" rel="stylesheet">
+
 		
 
 		<!-- If the query includes 'print-pdf', include the PDF print sheet -->
@@ -29,11 +44,15 @@
 	<body>
 		<div class="reveal">
 			<div class="slides">
-									<section id="title-slide">
+									<section id="title-slide">					
+						<div class="title">
 						<h1 class="title">Know Your Rights:</h1>
-												<p class="subtitle">Demonstrations &amp; Police Encounters</p>
-																		<p class="author">Eric M. Fink</p>
-																	</section>
+												<h2 class="title">Demonstrations &amp; Police Encounters</h2>
+																		<h3 class="title">Eric M. Fink</h3>
+																		<h3 class="title">Elon Law School</h2>
+																		<h4 class="title">14 June 2023</h4>
+												</div>
+					</section>
 								
 				<section id="disclaimer" class="title-slide slide level1">
 <h1>Disclaimer</h1>
@@ -64,7 +83,7 @@ Government for a redress of grievances.</p>
 <section id="st-amendment-scope" class="slide level3">
 <h3>1st Amendment: Scope</h3>
 <p>The 1st Amendment protects against restraints on speech and assembly
-by <em>government action</em>.</p>
+by <em>governmen”t action</em>.</p>
 </section>
 <section id="st-amendment-effect" class="slide level3">
 <h3>1st Amendment: Effect</h3>
@@ -530,9 +549,13 @@ no cost by a public defender or other court-appointed lawyer.</li>
 		</div>
 
 		<script src="dist/reveal.js"></script>
+		<script src="dist/reveal-scroll.js"></script>
 		<script src="plugin/notes/notes.js"></script>
 		<script src="plugin/markdown/markdown.js"></script>
 		<script src="plugin/highlight/highlight.js"></script>
+		<script src="plugin/menu/menu.js"></script>
+		
+		
 		<script>
 		// More info about initialization & config:
 		// - https://revealjs.com/initialization/
@@ -541,7 +564,7 @@ no cost by a public defender or other court-appointed lawyer.</li>
 		hash: true,
 
 		// Learn about plugins: https://revealjs.com/plugins/
-		plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
+		plugins: [ RevealMarkdown, RevealHighlight, RevealNotes, RevealMenu ]
 		});
 		</script>
 

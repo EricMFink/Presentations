@@ -1,9 +1,10 @@
 ---
 
 title: 'Know Your Rights:'
-subtitle: Demonstrations & Police Encounters 
+subtitle: "Demonstrations & Police Encounters"
 author: Eric M. Fink 
-institution: Elon Law School 
+affiliation: Elon Law School 
+date: 14 June 2023
 
 revealjs-url: '.'
 
@@ -11,7 +12,7 @@ output:
   custom_document:
     path: 'KYR-Demos.html'
     pandoc_args: ["-t", "revealjs", "-s"]
-    theme: moon 
+    theme: emf-moon 
     slide_level: 3
 ---
 
@@ -31,7 +32,7 @@ This is a general overview of issues that may arise in political demonstrations 
 
 ### 1st Amendment: Scope
 
-The 1st Amendment protects against restraints on speech and assembly by _government action_. 
+The 1st Amendment protects against restraints on speech and assembly by _governmen"t action_. 
 
 
 ### 1st Amendment: Effect

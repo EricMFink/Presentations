@@ -1,7 +1,9 @@
 ---
-title: "Know Your Rights: Voting"
+title: "Know Your Rights:"
+subtitle: "Voting"
 author: Eric M. Fink
-date: February 16, 2017
+affiliation: Elon Law School 
+date: 16 February 2017
 
 revealjs-url: '.'
 

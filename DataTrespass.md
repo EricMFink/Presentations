@@ -1,6 +1,8 @@
 ---
-title: "State Data Trespass Laws and Federal Labor Pre-emption"
+title: "Workers Ungagged:"
+subtitle: "State Data Trespass Laws and Federal Labor Preemption"
 author: Eric M. Fink
+affiliation: Elon Law School 
 date: 5 March 2020
 
 revealjs-url: '.'
