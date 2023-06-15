@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Reveal.js-Title-Footer | Presentations</title>
+<meta name="generator" content="Jekyll v3.9.3" />
+<meta property="og:title" content="Reveal.js-Title-Footer" />
+<meta name="author" content="Eric M. Fink" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="http://localhost:4000/Presentations/plugin/title-footer/" />
+<meta property="og:url" content="http://localhost:4000/Presentations/plugin/title-footer/" />
+<meta property="og:site_name" content="Presentations" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Reveal.js-Title-Footer" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","author":{"@type":"Person","name":"Eric M. Fink"},"headline":"Reveal.js-Title-Footer","url":"http://localhost:4000/Presentations/plugin/title-footer/"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/Presentations/assets/css/style.css?v=30c32e928ed7c7c6f448906f7aaecffd696238cd">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/Presentations/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="http://localhost:4000/Presentations/">Presentations</a></h1>
+      
+
+      <h1 id="revealjs-title-footer">Reveal.js-Title-Footer</h1>
+
+<p>Footer showing title for Reveal.js HTML presentations</p>
+
+<h1 id="description">Description</h1>
+
+<h2 id="what-is-revealjs-title-footer">What is Reveal.js-Title-Footer?</h2>
+
+<p>Reveal.js-Title-Footer is a plugin for the Reveal.js framework for HTML presentations (https://github.com/hakimel/reveal.js).</p>
+
+<h2 id="what-does-revealjs-title-footer-do">What does Reveal.js-Title-Footer do?</h2>
+
+<p>Reveal.js-Title-Footer includes a footer in all the slides of a Reveal.js presentation (with optional exclusion of some slides) that will show the title of the presentation.</p>
+
+<h2 id="configurable-options">Configurable options</h2>
+
+<p>The title to show on the footer is configurable.</p>
+
+<p>The background color of the footer is also configurable.</p>
+
+<h1 id="installation">Installation</h1>
+
+<h2 id="necessary-files">Necessary files</h2>
+
+<p>The <code class="language-plaintext highlighter-rouge">title-footer</code> folder of the <code class="language-plaintext highlighter-rouge">plugin</code> folder has to be copied to the <code class="language-plaintext highlighter-rouge">plugin</code> folder of the Reveal.js presentation.</p>
+
+<h2 id="css">CSS</h2>
+
+<p>The CSS of the Reveal.js-Title-Footer plugin is included dynamically when it is initialized. However, if we configure the presentation not to include the Reveal.js-Title-Footer footer in the first page, this will be shown until the CSS is loaded dynamically, causing an ugly effect. To avoid it, include the CSS in the header of the Reveal.js presentation, with this line:</p>
+
+<p><code class="language-plaintext highlighter-rouge">&lt;link rel="stylesheet" href="plugin/title-footer/title-footer.css"&gt;</code></p>
+
+<h2 id="plugin-initialization">Plugin initialization</h2>
+
+<p>Include Reveal.js-Title-Footer among the Reveal.js plugin initializations, like this:</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nx">Reveal</span><span class="p">.</span><span class="nx">initialize</span>
+<span class="p">(</span>
+	<span class="p">{</span>
+		<span class="p">...</span>
+		<span class="na">dependencies</span><span class="p">:</span>
+		<span class="p">[</span>
+			<span class="p">...</span>
+			<span class="p">{</span> <span class="na">src</span><span class="p">:</span> <span class="dl">'</span><span class="s1">plugin/title-footer/title-footer.js</span><span class="dl">'</span><span class="p">,</span> <span class="na">async</span><span class="p">:</span> <span class="kc">true</span><span class="p">,</span> <span class="na">callback</span><span class="p">:</span> <span class="kd">function</span><span class="p">()</span> <span class="p">{</span> <span class="nx">title_footer</span><span class="p">.</span><span class="nx">initialize</span><span class="p">();</span> <span class="p">}</span> <span class="p">}</span>
+		<span class="p">]</span>
+	<span class="p">}</span>
+<span class="p">);</span>
+</code></pre></div></div>
+
+<h2 id="customization">Customization</h2>
+
+<p>The <code class="language-plaintext highlighter-rouge">title_footer.initialize</code> function can take two parameters:</p>
+
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">title</code>: the title to show in the footer; if <code class="language-plaintext highlighter-rouge">null</code>, it will take the <code class="language-plaintext highlighter-rouge">h1</code>, <code class="language-plaintext highlighter-rouge">h2</code> and <code class="language-plaintext highlighter-rouge">h3</code> elements of the first slide.</li>
+  <li><code class="language-plaintext highlighter-rouge">background</code>: a string of the form <code class="language-plaintext highlighter-rouge">'rgba(0,255,0,0.1)'</code>, for the background colour of the footer.</li>
+</ul>
+
+<p>For further customization (like making the footer a header, for example), arrange the <code class="language-plaintext highlighter-rouge">plugin/title-footer/title-footer.css</code> file accordingly.</p>
+
+<h1 id="use">Use</h1>
+
+<h2 id="title">Title</h2>
+
+<p>The Reveal.js-Title-Footer plugin takes the first <code class="language-plaintext highlighter-rouge">h1</code>, <code class="language-plaintext highlighter-rouge">h2</code> and <code class="language-plaintext highlighter-rouge">h3</code> tags from the first slide as the title, if another title is not explicitly passed as parameter in the initialization.</p>
+
+<h2 id="exclusion-from-slides">Exclusion from slides</h2>
+
+<p>The Reveal.js-Title-Footer footer will not be shown in a slide if the corresponding section has a <code class="language-plaintext highlighter-rouge">data-state</code> attribute with a value of <code class="language-plaintext highlighter-rouge">no-title-footer</code>.</p>
+
+<h2 id="compatibility-with-revealjs-toc-progress">Compatibility with Reveal.js-TOC-Progress</h2>
+
+<p>If the Reveal.js-TOC-Progress is also used, the Reveal.js-Title-Footer footer is shown just above it. For not showing any of them in a slide, include a <code class="language-plaintext highlighter-rouge">data-state</code> attribute with a value of <code class="language-plaintext highlighter-rouge">no-toc-progress</code> in the corresponding section.</p>
+
+<h1 id="links">Links</h1>
+
+<ul>
+  <li>Source code on GitHub: https://github.com/e-gor/Reveal.js-Title-Footer</li>
+  <li>Demo presentation with Reveal.js-Title-Footer: http://e-gor.github.io/Reveal.js-Title-Footer/demo</li>
+</ul>
+
+<h1 id="license">License</h1>
+
+<p>GPL v3 (http://www.gnu.org/copyleft/gpl.html).</p>
+
+
+      
+      <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
+        This site is open source. <a href="https://github.com/EricMFink/Presentations/edit/gh-pages/plugin/title-footer/README.md">Improve this page</a>.
+      </div>
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
+</html>

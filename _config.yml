@@ -1,0 +1,39 @@
+---
+url: https://www.emfink.net # the base hostname & protocol for your site
+baseurl: /Presentations # the subpath of your site, e.g. /blog/
+title: Presentations
+description:  # leave blank if you don't want to display a description
+last_updated: 14 June 2023
+
+author: Eric M. Fink
+position: Associate Professor
+institution: Elon Law School
+city: Greensboro
+state: North Carolina
+email: emfink@gmail.com
+phone: 336-279-9334
+
+# -----------------------------------------------------------------------------
+# Jekyll settings
+# -----------------------------------------------------------------------------
+
+host: localhost
+port: 4000
+
+timezone: America/New_York
+
+highlighter: rouge
+gist:
+  noscript: false
+
+kramdown:
+  auto_ids          : true
+  entity_output     : as_char
+  toc_levels        : [1, 2, 3, 4, 5, 6]
+  smart_quotes      : lsquo,rsquo,ldquo,rdquo
+  hard_wrap         : false
+  footnote_nr       : 1
+  show_warnings     : false
+
+exclude: ["Gemfile", "Gemfile.lock", "node_modules", "vendor/bundle/", "vendor/cache/", "vendor/gems/", "vendor/ruby/"]
+keep_files: [".git", ".svn"]
