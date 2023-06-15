@@ -1,6 +1,7 @@
 ---
 title: Legal Ethics
 subtitle: Fourth Circuit Judicial Conference
+header: Model Rules of Civil Procedure
 description: Legal ethics presentation for the 2023 Fourth Circuit Judicial Conference in Greensboro, North Carolina. 
 date: 29 June 2023
 

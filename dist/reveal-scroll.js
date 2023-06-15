@@ -3,7 +3,7 @@ function resetSlideScrolling(slide) {
 }
 
 function handleSlideScrolling(slide) {
-    if (slide.scrollHeight >= 600) {
+    if (slide.scrollHeight >= 700) {
         slide.classList.add('scrollable-slide');
     }
 }

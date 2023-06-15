@@ -25,11 +25,11 @@
    --r-base-font-size: 20px;
    --r-text-font-size: 1rem;
    --r-text-line-height: 1.4;
-   --r-text-max-width: 35rem;
+   --r-text-max-width: 45rem;
    --r-text-align: left;
    --r-text-font-weight: 300;
    --r-block-margin: 20px;
-   --r-heading-max-width: 35rem;
+   --r-heading-max-width: 45rem;
    --r-heading-margin: 0 auto;
    --r-heading-font: adelle-sans-condensed, Source Sans Pro, Helvetica, sans-serif;
    --r-heading-color: #b03a2e;
@@ -140,6 +140,7 @@
  .reveal h1 {
    text-shadow: var(--r-heading1-text-shadow);
  }
+
  
  /*********************************************
   * OTHER
@@ -246,9 +247,9 @@
   display: block;
   position: relative;
   width: 100%;
-  max-width: 30rem;
+  max-width: 43rem;
   margin: 0 auto;
-  padding: 0;
+  padding: 0 0 0 2rem;
   font-size: 100%;
   line-height: var(--r-text-line-height);
   text-align: left;
@@ -259,11 +260,12 @@
 
 .reveal blockquote blockquote {
   padding: 0 0 0 2rem;
-  max-width: 30rem;
+  max-width: 41rem;
 }
 
 .reveal blockquote p {
   font-size: 100%;
+  font-size: var(--r-text-font-size);
   line-height: var(--r-text-line-height);
   font-style: normal;
   margin: 0 0 10px 0;
@@ -390,7 +392,7 @@
  * Scollable slides for overflow
  *********************************************/
 .scrollable-slide {
-  height: 600px;
+  height: 700px;
   overflow-y: auto !important;
 }
 
