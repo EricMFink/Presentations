@@ -1,20 +1,121 @@
 ---
-title: Legal Ethics
+title: Balancing the Letter of Ethical Rules with a Spirit of Professionalism
 subtitle: Fourth Circuit Judicial Conference
-header: Model Rules of Civil Procedure
-description: Legal ethics presentation for the 2023 Fourth Circuit Judicial Conference in Greensboro, North Carolina. 
+header: Legal Ethics & Professionalism
+description: Presentation for the 2023 Fourth Circuit Judicial Conference
 date: 29 June 2023
 
 revealjs-url: '.'
 
 output: 
   custom_document:
-    path: 'MRPC.html'
+    path: 'LegalEthics&Professionalism.html'
     pandoc_args: ["-t", "revealjs", "-s"]
     theme: emf-legal 
     slide_level: 3
 
 ---
+
+# Questions 
+
+## Question 1
+
+The title of this program refers to both “Ethical Rules” and “Professionalism” and the need to “balance” the demands of each. 
+
+Why do we speak of “Ethical Rules” and “Professionalism” as two different things and why do they need balancing? 
+
+## Question 2
+
+Fed. R. Civ. P. 1 requires the parties, attorneys, and court to interpret and employ the rules of procedure in civil cases to secure the just, speedy, and inexpensive resolution of all civil claims. The advisory notes to Rule 1, as well as countless judicial opinions have interpreted Rule 1 to impose a duty on the parties and counsel to cooperate during the discovery phase of civil litigation. 
+
+How does this rule and court-imposed obligation square with an attorney’s ethical obligation to represent the interest of their client? 
+
+### Fed. R. Civ. P. Rule 1
+
+#### Scope and Purpose
+
+These rules govern the procedure in all civil actions and proceedings in the United States district courts, except as stated in Rule 81. They should be construed, administered, and employed by the court and the parties to secure the just, speedy, and inexpensive determination of every action and proceeding.
+
+#### Committee Notes on Rules—2015 Amendment
+
+Rule 1 is amended to emphasize that just as the court should construe and administer these rules to secure the just, speedy, and inexpensive determination of every action, so the parties share the responsibility to employ the rules in the same way. Most lawyers and parties cooperate to achieve these ends. But discussions of ways to improve the administration of civil justice regularly include pleas to discourage over-use, misuse, and abuse of procedural tools that increase cost and result in delay. Effective advocacy is consistent with — and indeed depends upon — cooperative and proportional use of procedure.
+
+## Question 3 
+
+How does one balance zealous advocacy and efficiency and the courts disfavoring extensions of time and continuances?  
+
+Why is it important to set proper client expectations at the onset of representation? 
+
+### Model Rules of Professional Conduct 
+
+Rule 3.2: Expediting Litigation 
+
+Rule 3.4: Fairness to Opposing Party & Counsel 
+
+## Question 4
+
+How does a new attorney develop “professional identity?” 
+
+Does it change over time?
+
+What role should Judges and more senior lawyers have in helping newer attorneys develop their professional identity? 
+
+## Question 5
+
+Attorneys sometimes must represent various interests in one matter. For example: (1) an attorney may represent multiple parties in the same lawsuit; (2) a government attorney may have a specific client but also an institutional interest to represent; or (3) a different person or entity may fund the litigation.
+
+How can an attorney navigate situations where the interests of these players diverge? 
+
+What are some best practices when navigating such situations? 
+
+
+### Model Rules of Professional Conduct 
+
+Rule 1.7: Conflict of Interest
+
+Rule 1.8(f): Payment by someone other than client
+
+Rule 1.13: Organization as Client
+
+## Question 6
+
+Given the hierarchical nature of the practice of law in many settings, how should an attorney navigate a situation where they are asked to do something they think is unethical? 
+
+### Model Rules of Professional Conduct 
+
+Rule 5.2: Responsibilities of a Subordinate Lawyer
+
+### Example 1
+
+For example, a junior attorney who is asked to advance a legal argument that is blatantly wrong, or is instructed to coach a witness to lie. Or a government attorney who thinks the proper approach is to confess error, but their supervisor disagrees.
+
+### Example 2
+
+A recent specific example is an attorney from Covington who leaked documents in the #MeToo investigation of Les Moonves. 
+
+### Example 3
+
+Another example is the Texas v. Pennsylvania suit where Texas’s solicitor general did not sign the complaint and left the office not too long after the motion for leave to file a bill of complaint was filed. 
+
+## Question 7
+
+Following the pandemic, what is the current status of professionalism and civility among legal professionals?  
+
+What are the impacts of decreased professionalism and civility?  
+
+What steps should lawyers and judges take to help improve these areas? 
+
+## Question 8
+
+Are there generational differences in the way younger and less-young attorneys perceive law as a profession and/or their responsibilities as members of a profession?  What can/should the profession do to address any such differences? 
+
+## Question 9 
+
+As a practical matter, what steps can judges take during the pretrial phase of a court that will minimize the frequency of discovery disputes, and enable the case to proceed more promptly, inexpensively, and fairly, but without interfering with the ability of counsel to effectively represent their clients? 
+
+## Question 10
+
+Why is it important to know the local rules and judicial preferences in the context of providing competent representation? 
 
 # ABA Model Rules of Professional Conduct
 
@@ -37,6 +138,14 @@ A lawyer shall provide competent representation to a client. Competent represent
 ## Rule 1.3: Diligence
 
 A lawyer shall act with reasonable diligence and promptness in representing a client.
+
+### N.C. R. Prof’l Cond. 1.3 cmt. [1]
+
+<div class="comment">
+
+> A lawyer should . . . take whatever lawful and ethical measures are required to vindicate a client’s cause or endeavor.  A lawyer must also act with commitment and dedication to the interests of the client and with zeal in advocacy upon the client’s behalf.  A lawyer is not bound, however, to press for every advantage that might be realized for a client. . . .  The lawyer’s duty to act with reasonable diligence does not require the use of offensive tactics or preclude the treating of all persons involved in the legal process with courtesy and respect.
+>
+> </div>
 
 ## Rule 1.4: Communications
 
@@ -403,6 +512,15 @@ In representing a client, a lawyer shall exercise independent professional judgm
 
 A lawyer shall not bring or defend a proceeding, or assert or controvert an issue therein, unless there is a basis in law and fact for doing so that is not frivolous, which includes a good faith argument for an extension, modification or reversal of existing law. A lawyer for the defendant in a criminal proceeding, or the respondent in a proceeding that could result in incarceration, may nevertheless so defend the proceeding as to require that every element of the case be established.
 
+### N.C. R. Prof’l Cond. 3.1 cmt. [1] 
+
+<div class="comment">
+
+> The advocate has a duty to use legal procedure for the fullest benefit of the client’s cause, but also a duty not to abuse legal procedure.
+
+</div>
+
+
 ## Rule 3.2: Expediting Litigation
 
 A lawyer shall make reasonable efforts to expedite litigation consistent with the interests of the client.
@@ -442,6 +560,14 @@ A lawyer shall not:
 > (1\) the person is a relative or an employee or other agent of a client; and
 
 > (2\) the lawyer reasonably believes that the person's interests will not be adversely affected by refraining from giving such information.
+
+### N.C. R. Prof’l Cond. 3.4 cmt [4]
+
+<div class="comment">
+
+> Rules of evidence and procedure are designed to lead to just decisions and are part of the framework of the law. . . .  [T]he lawyer is not justified in consciously violating such rules and the lawyer should be diligent in the effort to guard against the unintentional violation of them.
+
+</div>
 
 ## Rule 3.5: Impartiality & Decorum of the Tribunal
 
@@ -568,6 +694,13 @@ In dealing on behalf of a client with a person who is not represented by counsel
 
 (b\) A lawyer who receives a document or electronically stored information relating to the representation of the lawyer's client and knows or reasonably should know that the document or electronically stored information was inadvertently sent shall promptly notify the sender.
 
+### N.C. R. Prof’l Cond. 4.4 cmt. [1]
+
+<div class="comment">
+
+> Responsibility to a client requires a lawyer to subordinate the interests of others to those of the client, but that responsibility does not imply that a lawyer may disregard the rights of third persons.  It is impractical to catalogue all such rights, but they include legal restrictions on methods of obtaining evidence from third persons and unwarranted intrusions into privileged relationships, such as the client-lawyer relationship.
+
+</div>
 
 # Part 5: Law Firms and Associations 
 
@@ -847,3 +980,4 @@ It is professional misconduct for a lawyer to:
 > (1\) for conduct in connection with a matter pending before a tribunal, the rules of the jurisdiction in which the tribunal sits, unless the rules of the tribunal provide otherwise; and
 
 > (2\) for any other conduct, the rules of the jurisdiction in which the lawyer's conduct occurred, or, if the predominant effect of the conduct is in a different jurisdiction, the rules of that jurisdiction shall be applied to the conduct. A lawyer shall not be subject to discipline if the lawyer's conduct conforms to the rules of a jurisdiction in which the lawyer reasonably believes the predominant effect of the lawyer's conduct will occur.
+
