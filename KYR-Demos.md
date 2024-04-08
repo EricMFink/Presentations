@@ -2,9 +2,9 @@
 
 title: 'Know Your Rights:'
 subtitle: "Demonstrations & Police Encounters"
-author: Eric M. Fink 
+author: Professors Armijo Fink 
 affiliation: Elon Law School 
-date: 14 June 2023
+date: 11 April 2024
 
 revealjs-url: '.'
 
@@ -130,7 +130,7 @@ These activities may be restricted or prohibited, and may result in arrest:
 
 ## 1st Amendment & the Police 
 
-![](img/NLG/GSOpolice.jpeg)
+![](img/NLG/GSOpolice.jpg)
 
 
 ### Interacting with Police
