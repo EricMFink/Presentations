@@ -43,7 +43,7 @@ section.has-light-background, section.has-light-background h1, section.has-light
   --r-block-margin: 20px auto 20px auto;
   --r-img-margin: 20px auto 10px auto;
   --r-heading-max-width: 45rem;
-  --r-heading-margin: 1.5rem auto;
+  --r-heading-margin: 20px auto 10px auto;
   --r-heading-font: adelle-sans-condensed, Source Sans Pro, Helvetica, sans-serif;
   --r-heading-color: #eee8d5;
   --r-heading-line-height: 1.2;
@@ -131,6 +131,7 @@ html.reveal-full-page {
 
 .reveal h1 {
   font-size: var(--r-heading1-size);
+  text-shadow: var(--r-heading1-text-shadow);
 }
 
 .reveal h2 {
@@ -145,30 +146,32 @@ html.reveal-full-page {
   font-size: var(--r-heading4-size);
 }
 
-.reveal h1 {
-  text-shadow: var(--r-heading1-text-shadow);
-}
-
 /* Title slide: Title */
 .title h1 {
   font-size: var(--r-title-size);
+  margin: 0px auto 10px auto;
 }
 
 /* Title slide: Subtitle */
 .title h2 {
-  font-size: var(--r-title-size);
-  margin-bottom: 2rem;
+  font-size: var(--r-subtitle-size);
 }
 
-/* Title slide: Author & Affiliation */
+/* Title slide: Author */
 .title h3 {
   font-size: var(--r-heading3-size);
+  margin: 40px auto 10px auto;
 }
 
-/* Title slide: Date */
+/* Title slide: Affiliation */
 .title h4 {
+	font-size: var(--r-heading3-size);
+  }
+  
+
+/* Title slide: Date */
+.title h5 {
   font-size: var(--r-heading4-size);
-  margin-top: 2rem;
 }
 
 /*********************************************

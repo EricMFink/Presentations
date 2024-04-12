@@ -1,10 +1,19 @@
 ---
-
 title: Employment Law 
+subtitle: An Overview
 author: Eric M. Fink
 course: Intro to Law 
-institution: Elon University 
-presented: 25 March 2020
+affiliation: Elon University 
+date: 25 March 2020
+
+revealjs-url: '.'
+
+output: 
+  custom_document:
+    path: 'EmploymentLaw.html'
+    pandoc_args: ["-t", "revealjs", "-s"]
+    theme: emf-moon 
+    slide_level: 3
 
 ---
 
@@ -21,8 +30,6 @@ Elizabeth Anderson, [“Lecture II: Private Government”](https://www.emfink.ne
 
 
 # Establishing an Employment Relationship 
-
-
 
 ## Common Law "Control" Test
 
@@ -45,11 +52,9 @@ A hired worker is an employee if the hiring party has the right to control the m
 - Service areas and packages to be delivered 
 - Interactions with customers 
 
-Alexander v. FedEx Ground Package System, Inc.
-
+_Alexander v. FedEx Ground Package System, Inc._
 
 # Supervision & Control of Employees  
-
 
 ## The Scope of Employer Control 
 
@@ -161,8 +166,6 @@ Alexander Hertel-Fernandez, [How Employers Recruit Their Workers into Politics�
 
 When an employer and employee enter into a contract of employment for an indefinite period, either party may terminate the employment at any time, for any reason or no reason at all, without liability for breach of contract.
 
-
-
 ### Applying the At-Will Presumption   
 
 - Applied Analytical contacted Kurtzman to recruit him for a job. 
@@ -172,7 +175,6 @@ When an employer and employee enter into a contract of employment for an indefin
 
 [Kurtzman v. Applied Analytical Industries, Inc.](https://scholar.google.com/scholar_case?case=18327963070137805198), 493 S.E.2d 420 (N.C. 1997) 
 
-
 ### Applying the At-Will Presumption   
 
 > North Carolina is an employment-at-will state. This Court has repeatedly held that in the absence of a contractual agreement between an employer and an employee establishing a definite term of employment, the relationship is presumed to be terminable at the will of either party without regard to the quality of performance of either party.
@@ -181,7 +183,7 @@ When an employer and employee enter into a contract of employment for an indefin
 > 
 > [P]laintiff-employee's change of residence in the wake of defendant-employer's statements here does not constitute additional consideration making what is otherwise an at-will employment relationship one that can be terminated by the employer only for cause.
 
-Kurtzman v. Applied Analytical
+_Kurtzman v. Applied Analytical_
 
 
 ## Economic & Social Realities of At-Will Employment     
@@ -234,8 +236,6 @@ These employer strategies contribute to [labor market monopsony](https://www.ham
 
 [Harris v. Duke Power Co.](https://scholar.google.com/scholar_case?case=15762179126705154774), 356 S.E.2d 357 (N.C. 1987)
 
-
-
 ### Good Faith & Fair Dealing  
 
 > In determining whether there exists an implied-in-fact promise for some form of continued employment courts have considered a variety of factors in addition to the existence of independent consideration. These have included, for example, the personnel policies or practices of the employer, the employee's longevity of service, actions or communications by the employer reflecting assurances of continued employment, and the practices of the industry in which the employee is engaged.
@@ -243,8 +243,6 @@ These employer strategies contribute to [labor market monopsony](https://www.ham
 > A related doctrinal development exists in the application to the employment relationship of the "implied-in-law covenant of good faith and fair dealing inherent in every contract."
 
 [Pugh v. See’s Candies, Inc.](https://scholar.google.com/scholar_case?case=15425639941632764596), 116 Cal. App. 3d 311 (1981)
-
-
 
 ### Good Faith & Fair Dealing 
 
@@ -259,7 +257,6 @@ These employer strategies contribute to [labor market monopsony](https://www.ham
 
 [Coman v. Thomas Mfg. Co., Inc.](https://scholar.google.com/scholar_case?case=4152940208258731929), 381 SE 2d 445 (NC 1989), quoting Sides v. Duke University, 328 S.E.2d 818 (N.C. App. 1985)
 
-
 ### Public Policy 
 
 - Federal DOT regulations limit consecutive hours of driving, mandate minimum rest periods, and require driving logs, for long-haul truck drivers.
@@ -267,9 +264,7 @@ These employer strategies contribute to [labor market monopsony](https://www.ham
 - Coman alleged he was fired after he refused the company's orders to drive longer than permitted under the regulations and to falsify his logs. 
 - The NC Supreme Court held that Coman stated a claim for unlawful discharge in violation of the state's public policy, as embodied in DMV regulations.   
 
-Coman v. Thomas Mfg. Co., Inc.
-
-
+_Coman v. Thomas Mfg. Co., Inc._
 
 ### Public Policy 
 
@@ -290,15 +285,11 @@ Coman v. Thomas Mfg. Co., Inc.
 
 Civil Rights Act of 1964, Title VII, [42 U.S.C. § 2000e-2](https://www.law.cornell.edu/uscode/text/42/2000e-2)
 
-
-
 ### Employment Discrimination Statutes 
 
 > Can a male employer terminate a long-time female employee because the employer's wife, due to no fault of the employee, is concerned about the nature of the relationship between the employer and the employee? This is the question we are required to answer today. For the reasons stated herein, we ultimately conclude the conduct does not amount to unlawful sex discrimination in violation of the Iowa Civil Rights Act.
 
 [Nelson v. Knight](https://scholar.google.com/scholar_case?case=4567992880939190219), 834 N.W.2d 64 (Iowa 2013)
-
-
 
 ### Anti-Retaliation & Whistleblower Statutes  
 
@@ -307,8 +298,6 @@ Many employement & labor statues include provisions against retaliatory discharg
 > It shall be an unlawful employment practice for an employer to discriminate against any of his employees … because he has opposed any practice made an unlawful employment practice by this subchapter, or because he has made a charge, testified, assisted, or participated in any manner in an investigation, proceeding, or hearing under this subchapter.
 
 Title VII, [42 U.S.C. § 2000e-3](https://www.law.cornell.edu/uscode/text/42/2000e-3)
-
-
 
 ### Anti-Retaliation & Whistleblower Statutes 
 
