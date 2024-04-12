@@ -19,23 +19,18 @@ output:
 
 # The Employment Relationship 
 
-*** 
 
 ## Employment as Private Government 
-
 
 > Imagine a government that assigns almost everyone a superior whom they must obey. Although superiors give most inferiors a routine to follow, there is no rule of law. Orders may be arbitrary and can change at any time, without prior notice or opportunity to appeal. Superiors are unaccountable to those they order around. They are neither elected nor removable by their inferiors. Inferiors have no right to complain in court about how they are being treated, except in a few narrowly defined cases. They also have no right to be consulted about the orders they are given.
 
 Elizabeth Anderson, [“Lecture II: Private Government”](https://www.emfink.net/EmploymentLaw/assets/course_material/Introduction/Anderson_TannerLectures.pdf), 35 Tanner Lectures in Human Values, 94 (2016)
-
 
 # Establishing an Employment Relationship 
 
 ## Common Law "Control" Test
 
 A hired worker is an employee if the hiring party has the right to control the manner and means of performing the work; the worker is an independent contractor if the hiring party merely specifies the desired result but the worker has the right to decide how to accomplish it. 
-
-***
 
 ## Control Test  
 
@@ -62,7 +57,6 @@ _Alexander v. FedEx Ground Package System, Inc._
 
 Elizabeth Anderson, ["Private Government"](https://www.emfink.net/EmploymentLaw/assets/course_material/Introduction/Anderson_TannerLectures.pdf)
 
-
 ### Employee Appearance  
 
 - Cloutier was a cashier at Costco 
@@ -72,8 +66,6 @@ Elizabeth Anderson, ["Private Government"](https://www.emfink.net/EmploymentLaw/
 
 [Cloutier v. Costco Wholesale Corp.](https://scholar.google.com/scholar_case?case=15139833012244209720), 390 F.3d 126 (2004) 
 
-
-
 ### Employee Appearance 
 
 - "Under Title VII, an employer must offer a reasonable accommodation to resolve a conflict between an employee's sincerely held religious belief and a condition of employment, unless such an accommodation would create an undue hardship for the employer's business."
@@ -81,7 +73,6 @@ Elizabeth Anderson, ["Private Government"](https://www.emfink.net/EmploymentLaw/
 - Giving Cloutier an "exemption from the no-facial-jewelry policy" (the only accommodation she would accept) "would constitute an undue hardship", because it would result in Costco "forfeit[ing] its ability to mandate compliance and thus los[ing] control over its public image." 
 
 Cloutier v. Costco Wholesale Corp.
-
 
 ### Workplace Privacy  
 
@@ -93,13 +84,11 @@ Private sector employees have limited privacy protection in the workplace.
 
 See, e.g., [Hernandez v. Hillsides, Inc.](https://scholar.google.com/scholar_case?case=4862686272029257292), 211 P.3d 1063 (Cal. 2009); [Stengart v. Loving Care Agency, Inc.](https://scholar.google.com/scholar_case?case=15115168657962438964), 990 A.2d 650 (N.J. 2010); [Bodewig v. K-Mart, Inc.](https://scholar.google.com/scholar_case?case=6621202294068686752), 635 P.2d 657 (Or. Ct. App. 1981); [Hall v. May Department Stores Co.](https://scholar.google.com/scholar_case?case=4646924336022970001), 637 P.2d 126 (Ore. 1981)
 
-
 ### Social Media 
 
 Employees' social media posts, which concerned income tax liabilities resulting from employer's mistakes in witholding, were protected concerted activity under § 7 of the National Labor Relations Act, and employer commited unfair labor practices in violation of the Act by interrogating employees about the posts, threatening them with discharge, and discharging them under company's social media policy.   
 
 [Triple Play Sports Bar & Grille](http://apps.nlrb.gov/link/document.aspx/09031d4581862ac8), 361 NLRB No. 31 (2014), aff’d, Three D, LLC v. NLRB, No. 14-3284 (2d Cir. Oct. 21, 2015)
-
 
 ### Social Media 
 
@@ -111,9 +100,7 @@ Employees' social media posts, which concerned income tax liabilities resulting 
 > 
 > (3)\ Divulge any personal social media, except as provided in subdivision (c).
 
-
 [California Labor Code § 980(b)](http://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=LAB&sectionNum=980)
-
 
 ### Political Activity 
 
@@ -123,8 +110,6 @@ Employees' social media posts, which concerned income tax liabilities resulting 
 
 [Curay-Cramer v. Ursuline Academy](https://scholar.google.com/scholar_case?case=4785663354025834706), 450 F.3d 130 (2006)
 
-
-
 ### Political Activity 
 
 - Title VII's anti-retaliation provision did not apply, because the advertisement did not mention Ursuline or its employment practices. 
@@ -133,12 +118,9 @@ Employees' social media posts, which concerned income tax liabilities resulting 
 
 [Curay-Cramer v. Ursuline Academy](https://scholar.google.com/scholar_case?case=4785663354025834706), 450 F.3d 130 (2006)
 
-
-
 ### Political Activity 
 
 Alexander Hertel-Fernandez, [How Employers Recruit Their Workers into Politics—And Why Political Scientists Should Care](http://scholar.harvard.edu/files/ahertel/files/empmobilpop.pdf), 14 Perspectives on Politics 410 (2016)
-
 
 ### Political Activity 
 
@@ -151,8 +133,6 @@ Alexander Hertel-Fernandez, [How Employers Recruit Their Workers into Politics�
 > Section 1102. No employer shall coerce or influence or attempt to coerce or influence his employees through or by means of threat of discharge or loss of employment to adopt or follow or refrain from adopting or following any particular course or line of political action or political activity.
 
 [California Labor Code §§ 1101-1106](http://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=LAB&division=2.&title=&part=3.&chapter=5.&article=)
-
-
 
 ### Other Personal Conduct  
 
@@ -185,9 +165,7 @@ When an employer and employee enter into a contract of employment for an indefin
 
 _Kurtzman v. Applied Analytical_
 
-
 ## Economic & Social Realities of At-Will Employment     
-
 
 ### Formal Equality   
 
@@ -196,7 +174,6 @@ The at-will presumption is supposed to work both ways:
 - The employer is free to fire the employee at any time without needing a good reason. 
 - The employee is likewise free to quit at any time without needing a good reason. 
 - No requirement that either party give advance notice. 
-
 
 ### Constraints on Employee Exit 
 
@@ -209,22 +186,18 @@ The at-will presumption is supposed to work both ways:
 
 These employer strategies contribute to [labor market monopsony](https://www.hamiltonproject.org/assets/files/protecting_low_income_workers_from_monopsony_collusion_krueger_posner_pp.pdf).  
 
-
 ## Limits on At-Will Termination 
-
 
 ### Express Contractual Limits 
 
 - Specified term of employment 
 - For-cause provisions 
 
-
 ### Employee Handbooks 
 
 > [T]he plaintiff alleges that when she was hired she was required to sign a statement that she had read the hospital policy manual which provides she may only be discharged for cause and that certain procedures must be followed in order for her to be discharged. She also alleges the statement she signed was to be a part of her employment contract. She alleged further that she was discharged without cause and without following the procedures of the personnel manual. We believe that … the plaintiff has sufficiently alleged that the policy manual was a part of her employment contract which was breached by her discharge to survive the motion. 
 
 [Trought v. Richardson](https://scholar.google.com/scholar_case?case=17490998840518816918), 338 SE 2d 617 (NC App. 1986)
-
 
 ### Employee Handbooks
 
@@ -250,7 +223,6 @@ These employer strategies contribute to [labor market monopsony](https://www.ham
 
 [Salt v. Applied Analytical, Inc.](https://scholar.google.com/scholar_case?case=1850771925600135641), 412 S.E.2d 97 (N.C. App. 1991)
 
-
 ### Public Policy 
 
 > [W]hile there may be a right to terminate a contract at will for no reason, or for an arbitrary or irrational reason, there can be no right to terminate such a contract for an unlawful reason or purpose that contravenes public policy. A different interpretation would encourage and sanction lawlessness, which law by its very nature is designed to discourage and prevent.
@@ -275,7 +247,6 @@ _Coman v. Thomas Mfg. Co., Inc._
 > In this case, defendant's allegedly unlawful conduct was the failure to comply with a regulatory statute governing employee drug-testing procedures. In contrast, defendant's reason for terminating plaintiff's employment was permissible. Under the doctrine of employment at will, an employer who may fire an employee for any reason or no reason at all may certainly terminate an employee for suspected drug use as part of an effort to maintain a drug-free workplace.
 
 [Garner v. Rentenbach Constructors Inc.](https://scholar.google.com/scholar_case?case=2014460600734710241), 515 S.E.2d 438 (N.C. 1999)
-
 
 ### Employment Discrimination Statutes 
 
