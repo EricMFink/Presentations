@@ -466,9 +466,11 @@ dismiss those claims. 2024 WL 3371319 (N.D. Fla. July 10, 2024).</p>
   <script src="./dist/reveal.js"></script>
 
   <!-- reveal.js plugins -->
+  <script src="./plugin/menu/menu.js"></script>
   <script src="./plugin/notes/notes.js"></script>
   <script src="./plugin/search/search.js"></script>
   <script src="./plugin/zoom/zoom.js"></script>
+  <script src="./plugin/pdfexport/pdfexport.js"></script>
 
   <script>
 
@@ -477,7 +479,10 @@ dismiss those claims. 2024 WL 3371319 (N.D. Fla. July 10, 2024).</p>
       Reveal.initialize({
         // Display controls in the bottom right corner
         controls: true,
-
+        
+	// Shortcut for toggling between screen and PDF mode
+	pdfExportShortcut: 'P',
+	
         // Help the user learn the controls by providing hints, for example by
         // bouncing the down arrow when they first encounter a vertical slide
         controlsTutorial: true,
@@ -617,9 +622,11 @@ dismiss those claims. 2024 WL 3371319 (N.D. Fla. July 10, 2024).</p>
 
         // reveal.js plugins
         plugins: [
+          RevealMenu,
           RevealNotes,
           RevealSearch,
-          RevealZoom
+          RevealZoom,
+          PdfExport,
         ]
       });
     </script>
