@@ -5,7 +5,7 @@ header: Legal Ethics & Professionalism
 description: Presentation for the 2023 Fourth Circuit Judicial Conference
 date: 29 June 2023
 
-revealjs-url: '.'
+revealjs-url: '..'
 
 output: 
   custom_document:
@@ -144,8 +144,8 @@ A lawyer shall act with reasonable diligence and promptness in representing a cl
 <div class="comment">
 
 > A lawyer should . . . take whatever lawful and ethical measures are required to vindicate a client’s cause or endeavor.  A lawyer must also act with commitment and dedication to the interests of the client and with zeal in advocacy upon the client’s behalf.  A lawyer is not bound, however, to press for every advantage that might be realized for a client. . . .  The lawyer’s duty to act with reasonable diligence does not require the use of offensive tactics or preclude the treating of all persons involved in the legal process with courtesy and respect.
->
-> </div>
+
+</div>
 
 ## Rule 1.4: Communications
 

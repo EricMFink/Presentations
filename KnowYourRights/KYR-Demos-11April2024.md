@@ -6,7 +6,7 @@ author: National Lawyers Guild
 affiliation: Elon Law School 
 date: 11 April 2024
 
-revealjs-url: '.'
+revealjs-url: '..'
 
 output: 
   custom_document:
