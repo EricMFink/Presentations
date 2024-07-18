@@ -170,8 +170,7 @@ html.reveal-full-page {
 /* Title slide: Subtitle */
 .title h2 {
   font-size: var(--r-heading2-size);
-  font-weight: var(--r-text-font-weight);
-  font-style: italic;
+  font-weight: var(--r-heading-font-weight);
 }
 
 /* Title slide: Author */
