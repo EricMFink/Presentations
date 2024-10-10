@@ -7,7 +7,7 @@ revealjs-url: '.'
 
 output: 
   custom_document:
-    path: 'NCBA-Presentation.html'
+    path: 'Guardianships-NCBA.html'
     pandoc_args: ["-t", "revealjs", "-s"]
     theme: emf-white 
     slide_level: 3
